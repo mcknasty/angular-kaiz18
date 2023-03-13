@@ -16,7 +16,7 @@ const Users = {
   },
   '9627e2c3994d92dc': {
     id: '9627e2c3994d92dc',
-    name: 'Dania',
+    name: 'Diana',
     age: '14',
   },
   c19b4fbd22e3dae4: {
