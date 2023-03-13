@@ -1,0 +1,5 @@
+<ul>
+  <li *ngFor="let user of userMap">
+    <a [attr.href]="'user/' + user.id">{{ user.name }}</a>
+  </li>
+</ul>
