@@ -19,7 +19,7 @@
     "@angular/platform-browser": "^15.1.2",
     "@angular/platform-browser-dynamic": "^15.1.2",
     "@angular/router": "^15.1.2",
-    "@types/filesystem": "^0.0.32",
+    "@types/filesystem": "^0.0.36",
     "file-system": "^2.2.2",
     "rxjs": "^7.8.0",
     "tslib": "^2.5.0",
