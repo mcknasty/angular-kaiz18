@@ -18,7 +18,8 @@
             "main": "src/main.ts",
             "assets": [],
             "styles": ["src/global_styles.css"],
-            "scripts": []
+            "scripts": [],
+            "tsConfig": "tsconfig.json"
           },
           "configurations": {
             "production": {
@@ -31,7 +32,6 @@
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
-              "extractCss": true,
               "namedChunks": false,
               "aot": true,
               "extractLicenses": true,
@@ -78,5 +78,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
